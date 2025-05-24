@@ -1,0 +1,2587 @@
+{
+    "Statuses": [
+        {
+            "Key": 0,
+            "Name": "Pending"
+        },
+        {
+            "Key": 1,
+            "Name": "Settled"
+        },
+        {
+            "Key": 2,
+            "Name": "Failed"
+        },
+        {
+            "Key": 3,
+            "Name": "Voided"
+        }
+    ],
+    "Transactions": [
+        {
+            "Company": "UT",
+            "Reference": "10707698575",
+            "Date": "2025-05-13T22:10:31.1770000",
+            "SubTotal": 7.16,
+            "Surcharge": 0.00,
+            "Amount": 7.16,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10703570008",
+            "Date": "2025-05-12T18:42:39",
+            "SubTotal": 96.26,
+            "Surcharge": 1.44,
+            "Amount": 97.70,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10634613969",
+            "Date": "2025-04-22T13:21:24.2970000",
+            "SubTotal": 219.62,
+            "Surcharge": 0.00,
+            "Amount": 219.62,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10590483098",
+            "Date": "2025-04-09T00:57:26.5100000",
+            "SubTotal": 325.00,
+            "Surcharge": 0.00,
+            "Amount": 325.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10570441308",
+            "Date": "2025-04-02T18:16:25.8800000",
+            "SubTotal": 43.54,
+            "Surcharge": 0.00,
+            "Amount": 43.54,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10714187804",
+            "Date": "2025-05-15T13:09:46.1570000",
+            "SubTotal": 50.70,
+            "Surcharge": 0.00,
+            "Amount": 50.70,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10672479834",
+            "Date": "2025-05-02T21:10:05.6400000",
+            "SubTotal": 3045.01,
+            "Surcharge": 0.00,
+            "Amount": 3045.01,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10576846182",
+            "Date": "2025-04-04T18:40:23",
+            "SubTotal": 2960.00,
+            "Surcharge": 0.00,
+            "Amount": 2960.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10642764524",
+            "Date": "2025-04-24T21:28:05",
+            "SubTotal": 275.00,
+            "Surcharge": 0.00,
+            "Amount": 275.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10573546921",
+            "Date": "2025-04-03T15:35:45",
+            "SubTotal": 96.23,
+            "Surcharge": 0.00,
+            "Amount": 96.23,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10716221987",
+            "Date": "2025-05-15T21:15:02.5930000",
+            "SubTotal": 75.39,
+            "Surcharge": 0.00,
+            "Amount": 75.39,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10727452154",
+            "Date": "2025-05-19T16:31:35.3000000",
+            "SubTotal": 8.93,
+            "Surcharge": 0.00,
+            "Amount": 8.93,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10634805467",
+            "Date": "2025-04-22T14:23:06.4330000",
+            "SubTotal": 31.48,
+            "Surcharge": 0.00,
+            "Amount": 31.48,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10635834702",
+            "Date": "2025-04-23T00:12:25",
+            "SubTotal": 1395.00,
+            "Surcharge": 0.00,
+            "Amount": 1395.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10662081690",
+            "Date": "2025-04-30T21:12:44.9070000",
+            "SubTotal": 726.08,
+            "Surcharge": 21.78,
+            "Amount": 747.86,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10680629434",
+            "Date": "2025-05-05T21:52:59",
+            "SubTotal": 1735.00,
+            "Surcharge": 0.00,
+            "Amount": 1735.00,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10718615831",
+            "Date": "2025-05-16T14:38:54.5870000",
+            "SubTotal": 137.00,
+            "Surcharge": 0.00,
+            "Amount": 137.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10593494465",
+            "Date": "2025-04-09T18:43:36.5070000",
+            "SubTotal": 87.09,
+            "Surcharge": 0.00,
+            "Amount": 87.09,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10681331955",
+            "Date": "2025-05-05T19:47:45",
+            "SubTotal": 372.24,
+            "Surcharge": 0.00,
+            "Amount": 372.24,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10570589063",
+            "Date": "2025-04-02T18:57:48.4870000",
+            "SubTotal": 71.57,
+            "Surcharge": 0.00,
+            "Amount": 71.57,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10734514315",
+            "Date": "2025-05-21T16:59:43.3130000",
+            "SubTotal": 2000.00,
+            "Surcharge": 0.00,
+            "Amount": 2000.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10709417535",
+            "Date": "2025-05-14T14:02:49",
+            "SubTotal": 33.00,
+            "Surcharge": 0.00,
+            "Amount": 33.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10637914469",
+            "Date": "2025-04-23T13:37:52.8500000",
+            "SubTotal": 50.23,
+            "Surcharge": 0.00,
+            "Amount": 50.23,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10658039008",
+            "Date": "2025-04-29T23:27:33.6930000",
+            "SubTotal": 3670.00,
+            "Surcharge": 0.00,
+            "Amount": 3670.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10667477650",
+            "Date": "2025-05-01T23:55:15",
+            "SubTotal": 2980.00,
+            "Surcharge": 0.00,
+            "Amount": 2980.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10585916484",
+            "Date": "2025-04-07T14:24:50.2530000",
+            "SubTotal": 94.23,
+            "Surcharge": 0.00,
+            "Amount": 94.23,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10667767345",
+            "Date": "2025-05-01T19:53:22.6770000",
+            "SubTotal": 113.24,
+            "Surcharge": 3.40,
+            "Amount": 116.64,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10597557160",
+            "Date": "2025-04-10T21:21:38.4670000",
+            "SubTotal": 63.45,
+            "Surcharge": 0.00,
+            "Amount": 63.45,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10617196558",
+            "Date": "2025-04-16T17:45:26",
+            "SubTotal": 26.65,
+            "Surcharge": 0.00,
+            "Amount": 26.65,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10620178793",
+            "Date": "2025-04-17T16:25:03.9870000",
+            "SubTotal": 188.28,
+            "Surcharge": 0.00,
+            "Amount": 188.28,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10616704840",
+            "Date": "2025-04-16T15:26:23.2530000",
+            "SubTotal": 15435.00,
+            "Surcharge": 0.00,
+            "Amount": 15435.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10593387270",
+            "Date": "2025-04-09T18:12:54.9770000",
+            "SubTotal": 87.09,
+            "Surcharge": 0.00,
+            "Amount": 87.09,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10571258416",
+            "Date": "2025-04-02T22:24:17.4800000",
+            "SubTotal": 76.98,
+            "Surcharge": 0.00,
+            "Amount": 76.98,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10609174910",
+            "Date": "2025-04-14T18:35:18",
+            "SubTotal": 523.00,
+            "Surcharge": 0.00,
+            "Amount": 0.00,
+            "Status": 2
+        },
+        {
+            "Company": "UT",
+            "Reference": "10632871887",
+            "Date": "2025-04-22T01:51:24",
+            "SubTotal": 877.50,
+            "Surcharge": 26.33,
+            "Amount": 903.83,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10587095598",
+            "Date": "2025-04-07T19:28:09",
+            "SubTotal": 2230.00,
+            "Surcharge": 0.00,
+            "Amount": 2230.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10694035044",
+            "Date": "2025-05-09T13:56:18.7470000",
+            "SubTotal": 15.26,
+            "Surcharge": 0.00,
+            "Amount": 15.26,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10737909655",
+            "Date": "2025-05-22T16:20:02",
+            "SubTotal": 4121.45,
+            "Surcharge": 61.82,
+            "Amount": 4183.27,
+            "Status": 0
+        },
+        {
+            "Company": "UT",
+            "Reference": "10661274043",
+            "Date": "2025-04-30T22:24:57",
+            "SubTotal": 3860.00,
+            "Surcharge": 57.90,
+            "Amount": 3917.90,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10632346324",
+            "Date": "2025-04-21T18:19:48.5830000",
+            "SubTotal": 30.38,
+            "Surcharge": 0.91,
+            "Amount": 31.29,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10595943417",
+            "Date": "2025-04-10T13:45:47.8570000",
+            "SubTotal": 48.84,
+            "Surcharge": 0.00,
+            "Amount": 48.84,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10683732740",
+            "Date": "2025-05-06T15:15:08.1100000",
+            "SubTotal": 4000.00,
+            "Surcharge": 0.00,
+            "Amount": 4000.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10694269783",
+            "Date": "2025-05-09T14:54:10.2730000",
+            "SubTotal": 45.21,
+            "Surcharge": 0.00,
+            "Amount": 45.21,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10619962315",
+            "Date": "2025-04-17T15:23:09.5900000",
+            "SubTotal": 850.00,
+            "Surcharge": 0.00,
+            "Amount": 850.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10731353076",
+            "Date": "2025-05-20T18:10:15.2570000",
+            "SubTotal": 229.88,
+            "Surcharge": 0.00,
+            "Amount": 229.88,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10661540231",
+            "Date": "2025-04-30T18:38:11",
+            "SubTotal": 4198.11,
+            "Surcharge": 0.00,
+            "Amount": 4198.11,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10734264067",
+            "Date": "2025-05-21T15:49:45.7600000",
+            "SubTotal": 209.87,
+            "Surcharge": 0.00,
+            "Amount": 209.87,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10655045550",
+            "Date": "2025-04-28T19:49:23.5570000",
+            "SubTotal": 1226.14,
+            "Surcharge": 36.78,
+            "Amount": 1262.92,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10614291281",
+            "Date": "2025-04-15T20:31:07.3430000",
+            "SubTotal": 35.10,
+            "Surcharge": 0.00,
+            "Amount": 35.10,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10683900352",
+            "Date": "2025-05-06T16:00:03",
+            "SubTotal": 91.42,
+            "Surcharge": 1.37,
+            "Amount": 92.79,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10688140316",
+            "Date": "2025-05-07T19:58:04",
+            "SubTotal": 262.50,
+            "Surcharge": 0.00,
+            "Amount": 262.50,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10695194260",
+            "Date": "2025-05-09T18:40:38",
+            "SubTotal": 28.66,
+            "Surcharge": 0.00,
+            "Amount": 28.66,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10687867068",
+            "Date": "2025-05-07T18:37:02",
+            "SubTotal": 97.68,
+            "Surcharge": 0.00,
+            "Amount": 97.68,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10719306713",
+            "Date": "2025-05-16T17:25:58.3570000",
+            "SubTotal": 8.38,
+            "Surcharge": 0.00,
+            "Amount": 8.38,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10687896294",
+            "Date": "2025-05-07T23:45:28.4670000",
+            "SubTotal": 10000.00,
+            "Surcharge": 0.00,
+            "Amount": 10000.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10612628630",
+            "Date": "2025-04-15T14:08:05.8070000",
+            "SubTotal": 3671.05,
+            "Surcharge": 110.13,
+            "Amount": 3781.18,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10620483090",
+            "Date": "2025-04-17T17:51:50",
+            "SubTotal": 4485.00,
+            "Surcharge": 0.00,
+            "Amount": 4485.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10641803699",
+            "Date": "2025-04-24T16:31:59",
+            "SubTotal": 28.66,
+            "Surcharge": 0.00,
+            "Amount": 28.66,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10736302332",
+            "Date": "2025-05-22T03:24:19",
+            "SubTotal": 2785.00,
+            "Surcharge": 0.00,
+            "Amount": 2785.00,
+            "Status": 0
+        },
+        {
+            "Company": "UT",
+            "Reference": "10635684589",
+            "Date": "2025-04-22T18:28:02",
+            "SubTotal": 523.00,
+            "Surcharge": 0.00,
+            "Amount": 523.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10653928906",
+            "Date": "2025-04-28T19:50:54",
+            "SubTotal": 1530.00,
+            "Surcharge": 0.00,
+            "Amount": 1530.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10679975443",
+            "Date": "2025-05-05T14:09:27.4900000",
+            "SubTotal": 46.66,
+            "Surcharge": 1.40,
+            "Amount": 48.06,
+            "Status": 1
+        },
+        {
+            "Company": "CS",
+            "Reference": "10702885586",
+            "Date": "2025-05-12T15:48:27.7070000",
+            "SubTotal": 2924.48,
+            "Surcharge": 87.73,
+            "Amount": 3012.21,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10596814849",
+            "Date": "2025-04-10T17:39:49",
+            "SubTotal": 428.21,
+            "Surcharge": 6.42,
+            "Amount": 434.63,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10617722045",
+            "Date": "2025-04-16T20:20:03.7230000",
+            "SubTotal": 500.00,
+            "Surcharge": 0.00,
+            "Amount": 500.00,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10609297089",
+            "Date": "2025-04-15T00:08:24.4500000",
+            "SubTotal": 1300.00,
+            "Surcharge": 0.00,
+            "Amount": 1300.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10733850492",
+            "Date": "2025-05-21T13:48:08.0530000",
+            "SubTotal": 5.38,
+            "Surcharge": 0.00,
+            "Amount": 5.38,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10730467159",
+            "Date": "2025-05-20T19:14:57",
+            "SubTotal": 800.00,
+            "Surcharge": 24.00,
+            "Amount": 824.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10642375631",
+            "Date": "2025-04-24T19:19:18",
+            "SubTotal": 7264.79,
+            "Surcharge": 0.00,
+            "Amount": 7264.79,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10609198028",
+            "Date": "2025-04-14T18:41:31",
+            "SubTotal": 1589.23,
+            "Surcharge": 0.00,
+            "Amount": 1589.23,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10612554282",
+            "Date": "2025-04-15T13:51:12.5230000",
+            "SubTotal": 28.47,
+            "Surcharge": 0.00,
+            "Amount": 28.47,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10634955286",
+            "Date": "2025-04-22T15:06:42",
+            "SubTotal": 1546.91,
+            "Surcharge": 0.00,
+            "Amount": 1546.91,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10709800043",
+            "Date": "2025-05-14T15:50:16",
+            "SubTotal": 80.00,
+            "Surcharge": 1.20,
+            "Amount": 81.20,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10709463122",
+            "Date": "2025-05-14T14:15:42.0700000",
+            "SubTotal": 28.47,
+            "Surcharge": 0.00,
+            "Amount": 28.47,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10637869044",
+            "Date": "2025-04-23T13:21:35",
+            "SubTotal": 219.62,
+            "Surcharge": 0.00,
+            "Amount": -219.62,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10642290593",
+            "Date": "2025-04-24T18:55:13.3700000",
+            "SubTotal": 2350.00,
+            "Surcharge": 0.00,
+            "Amount": 2350.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10703460046",
+            "Date": "2025-05-12T18:12:22.4300000",
+            "SubTotal": 48.84,
+            "Surcharge": 0.00,
+            "Amount": 48.84,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10654710379",
+            "Date": "2025-04-28T18:16:41",
+            "SubTotal": 4500.00,
+            "Surcharge": 0.00,
+            "Amount": 4500.00,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10617712521",
+            "Date": "2025-04-16T20:16:57.2570000",
+            "SubTotal": 175.00,
+            "Surcharge": 0.00,
+            "Amount": 175.00,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10641810327",
+            "Date": "2025-04-24T16:33:56",
+            "SubTotal": 30.00,
+            "Surcharge": 0.00,
+            "Amount": 30.00,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10707032927",
+            "Date": "2025-05-13T19:16:52",
+            "SubTotal": 2025.00,
+            "Surcharge": 0.00,
+            "Amount": 2025.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10642008390",
+            "Date": "2025-04-24T17:31:57.5370000",
+            "SubTotal": 5585.39,
+            "Surcharge": 0.00,
+            "Amount": 5585.39,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10639182325",
+            "Date": "2025-04-23T19:27:38.7930000",
+            "SubTotal": 7.63,
+            "Surcharge": 0.00,
+            "Amount": 7.63,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10661188311",
+            "Date": "2025-04-30T17:02:46.7400000",
+            "SubTotal": 15.26,
+            "Surcharge": 0.00,
+            "Amount": 15.26,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10613453677",
+            "Date": "2025-04-15T22:10:43.1970000",
+            "SubTotal": 680.00,
+            "Surcharge": 0.00,
+            "Amount": 680.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10680061495",
+            "Date": "2025-05-05T14:31:58",
+            "SubTotal": 12650.00,
+            "Surcharge": 0.00,
+            "Amount": 12650.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10732060466",
+            "Date": "2025-05-20T21:34:00.8970000",
+            "SubTotal": 7500.00,
+            "Surcharge": 0.00,
+            "Amount": 7500.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10609628976",
+            "Date": "2025-04-14T20:44:41.3030000",
+            "SubTotal": 550.00,
+            "Surcharge": 0.00,
+            "Amount": 550.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10716168996",
+            "Date": "2025-05-15T20:59:47.6900000",
+            "SubTotal": 700.00,
+            "Surcharge": 0.00,
+            "Amount": 700.00,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10735246746",
+            "Date": "2025-05-21T19:53:51",
+            "SubTotal": 950.00,
+            "Surcharge": 0.00,
+            "Amount": 950.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10734736335",
+            "Date": "2025-05-21T17:55:42.0200000",
+            "SubTotal": 649.30,
+            "Surcharge": 0.00,
+            "Amount": 649.30,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10671979303",
+            "Date": "2025-05-02T18:54:57",
+            "SubTotal": 1385.37,
+            "Surcharge": 0.00,
+            "Amount": 1385.37,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10618046467",
+            "Date": "2025-04-17T08:13:50",
+            "SubTotal": 0.00,
+            "Surcharge": 0.00,
+            "Amount": 0.00,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10715430922",
+            "Date": "2025-05-15T17:46:40.9500000",
+            "SubTotal": 1500.00,
+            "Surcharge": 45.00,
+            "Amount": 1545.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10687305074",
+            "Date": "2025-05-07T16:00:02",
+            "SubTotal": 2545.00,
+            "Surcharge": 0.00,
+            "Amount": 2545.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10705935435",
+            "Date": "2025-05-13T14:16:46.6900000",
+            "SubTotal": 42.20,
+            "Surcharge": 0.00,
+            "Amount": 42.20,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10726917421",
+            "Date": "2025-05-19T14:15:02",
+            "SubTotal": 1300.00,
+            "Surcharge": 0.00,
+            "Amount": 1300.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10716111865",
+            "Date": "2025-05-15T20:42:56",
+            "SubTotal": 7.63,
+            "Surcharge": 0.00,
+            "Amount": 7.63,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10573415501",
+            "Date": "2025-04-03T15:03:43",
+            "SubTotal": 296.33,
+            "Surcharge": 0.00,
+            "Amount": 296.33,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10593623128",
+            "Date": "2025-04-09T19:21:14.2170000",
+            "SubTotal": 300.00,
+            "Surcharge": 0.00,
+            "Amount": 300.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10638478770",
+            "Date": "2025-04-23T16:13:59",
+            "SubTotal": 4345.00,
+            "Surcharge": 0.00,
+            "Amount": 4345.00,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10714122125",
+            "Date": "2025-05-15T22:51:37",
+            "SubTotal": 1600.00,
+            "Surcharge": 0.00,
+            "Amount": 1600.00,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10631935762",
+            "Date": "2025-04-21T16:44:16.4500000",
+            "SubTotal": 175.0,
+            "Surcharge": 5.25,
+            "Amount": 180.25,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10714616579",
+            "Date": "2025-05-15T14:48:17",
+            "SubTotal": 9042.60,
+            "Surcharge": 0.00,
+            "Amount": 9042.60,
+            "Status": 1
+        },
+        {
+            "Company": "CS",
+            "Reference": "10645712126",
+            "Date": "2025-04-25T16:35:41",
+            "SubTotal": 1.00,
+            "Surcharge": 0.00,
+            "Amount": 1.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10577801158",
+            "Date": "2025-04-04T17:27:41",
+            "SubTotal": 1130.00,
+            "Surcharge": 0.00,
+            "Amount": 1130.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10655378483",
+            "Date": "2025-04-29T02:30:56.8300000",
+            "SubTotal": 2085.00,
+            "Surcharge": 0.00,
+            "Amount": 2085.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10732873262",
+            "Date": "2025-05-21T04:34:06",
+            "SubTotal": 3014.89,
+            "Surcharge": 90.45,
+            "Amount": 3105.34,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10671964965",
+            "Date": "2025-05-02T18:51:13.0700000",
+            "SubTotal": 8.34,
+            "Surcharge": 0.00,
+            "Amount": 8.34,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10727207281",
+            "Date": "2025-05-19T15:32:11",
+            "SubTotal": 229.32,
+            "Surcharge": 0.00,
+            "Amount": 229.32,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10619857963",
+            "Date": "2025-04-17T14:54:51",
+            "SubTotal": 42.52,
+            "Surcharge": 0.64,
+            "Amount": 43.16,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10670646648",
+            "Date": "2025-05-02T14:01:50.5600000",
+            "SubTotal": 49.32,
+            "Surcharge": 1.48,
+            "Amount": 50.80,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10702354262",
+            "Date": "2025-05-12T13:20:28",
+            "SubTotal": 25.96,
+            "Surcharge": 0.00,
+            "Amount": 25.96,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10657419252",
+            "Date": "2025-04-29T15:25:15",
+            "SubTotal": 4235.00,
+            "Surcharge": 0.00,
+            "Amount": 4235.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10586755770",
+            "Date": "2025-04-07T17:58:47.8900000",
+            "SubTotal": 142.38,
+            "Surcharge": 0.00,
+            "Amount": 142.38,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10586662962",
+            "Date": "2025-04-07T17:34:03.3230000",
+            "SubTotal": 68.36,
+            "Surcharge": 2.05,
+            "Amount": 70.41,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10706050254",
+            "Date": "2025-05-13T14:53:03.9300000",
+            "SubTotal": 35.46,
+            "Surcharge": 0.00,
+            "Amount": 35.46,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10631826192",
+            "Date": "2025-04-21T16:19:00.6730000",
+            "SubTotal": 38.36,
+            "Surcharge": 0.00,
+            "Amount": 38.36,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10667506151",
+            "Date": "2025-05-01T19:00:59.3670000",
+            "SubTotal": 446.81,
+            "Surcharge": 0.00,
+            "Amount": 446.81,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10620309782",
+            "Date": "2025-04-17T17:05:02.5170000",
+            "SubTotal": 45.21,
+            "Surcharge": 0.00,
+            "Amount": 45.21,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10597226761",
+            "Date": "2025-04-10T19:38:12.5370000",
+            "SubTotal": 334.06,
+            "Surcharge": 0.00,
+            "Amount": 334.06,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10623200403",
+            "Date": "2025-04-18T14:25:20",
+            "SubTotal": 11.38,
+            "Surcharge": 0.00,
+            "Amount": 11.38,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10727143425",
+            "Date": "2025-05-19T15:16:01.5630000",
+            "SubTotal": 48.18,
+            "Surcharge": 0.00,
+            "Amount": 48.18,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10703417920",
+            "Date": "2025-05-12T18:01:31",
+            "SubTotal": 5.00,
+            "Surcharge": 0.00,
+            "Amount": 5.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10642279286",
+            "Date": "2025-04-24T18:51:45.4100000",
+            "SubTotal": 347.78,
+            "Surcharge": 0.00,
+            "Amount": 347.78,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10631089000",
+            "Date": "2025-04-21T13:12:15.2370000",
+            "SubTotal": 29.64,
+            "Surcharge": 0.00,
+            "Amount": 29.64,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10600053371",
+            "Date": "2025-04-11T15:25:15.3670000",
+            "SubTotal": 2903.36,
+            "Surcharge": 0.00,
+            "Amount": 2903.36,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10655449758",
+            "Date": "2025-04-29T02:58:06",
+            "SubTotal": 550.00,
+            "Surcharge": 8.25,
+            "Amount": 558.25,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10702693496",
+            "Date": "2025-05-12T14:58:34.3830000",
+            "SubTotal": 31.76,
+            "Surcharge": 0.00,
+            "Amount": 31.76,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10715183566",
+            "Date": "2025-05-15T16:57:57",
+            "SubTotal": 81.06,
+            "Surcharge": 0.00,
+            "Amount": 81.06,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10586526625",
+            "Date": "2025-04-07T17:00:29.9370000",
+            "SubTotal": 35.00,
+            "Surcharge": 0.00,
+            "Amount": 35.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10670530205",
+            "Date": "2025-05-02T13:35:54.1470000",
+            "SubTotal": 22.08,
+            "Surcharge": 0.00,
+            "Amount": 22.08,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10585882263",
+            "Date": "2025-04-07T14:16:02.0600000",
+            "SubTotal": 69.04,
+            "Surcharge": 0.00,
+            "Amount": 69.04,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10609611187",
+            "Date": "2025-04-14T20:39:01",
+            "SubTotal": 600.00,
+            "Surcharge": 0.00,
+            "Amount": 600.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10733664981",
+            "Date": "2025-05-21T12:44:59.1170000",
+            "SubTotal": 23.32,
+            "Surcharge": 0.00,
+            "Amount": 23.32,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10570402703",
+            "Date": "2025-04-02T18:06:27.4530000",
+            "SubTotal": 132.07,
+            "Surcharge": 0.00,
+            "Amount": 132.07,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10641815618",
+            "Date": "2025-04-24T21:35:31",
+            "SubTotal": 440.00,
+            "Surcharge": 0.00,
+            "Amount": 440.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10619719705",
+            "Date": "2025-04-17T14:14:01",
+            "SubTotal": 4625.00,
+            "Surcharge": 0.00,
+            "Amount": 4625.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10716135447",
+            "Date": "2025-05-15T20:50:32",
+            "SubTotal": 2165.88,
+            "Surcharge": 0.00,
+            "Amount": 2165.88,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10737358341",
+            "Date": "2025-05-22T13:51:48.8000000",
+            "SubTotal": 33.95,
+            "Surcharge": 0.00,
+            "Amount": 33.95,
+            "Status": 0
+        },
+        {
+            "Company": "UT",
+            "Reference": "10657640853",
+            "Date": "2025-04-29T16:30:19",
+            "SubTotal": 7185.00,
+            "Surcharge": 0.00,
+            "Amount": 7185.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10608727674",
+            "Date": "2025-04-14T16:41:02.4430000",
+            "SubTotal": 1985.87,
+            "Surcharge": 0.00,
+            "Amount": 1985.87,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10587602423",
+            "Date": "2025-04-08T03:03:16",
+            "SubTotal": 4850.00,
+            "Surcharge": 145.50,
+            "Amount": 4995.50,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10720004710",
+            "Date": "2025-05-16T20:32:36",
+            "SubTotal": 9042.60,
+            "Surcharge": 0.00,
+            "Amount": 9042.60,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10589832408",
+            "Date": "2025-04-08T16:51:35.1000000",
+            "SubTotal": 75.00,
+            "Surcharge": 0.00,
+            "Amount": 75.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10680303555",
+            "Date": "2025-05-05T15:30:47.0170000",
+            "SubTotal": 115.06,
+            "Surcharge": 0.00,
+            "Amount": 115.06,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10654688314",
+            "Date": "2025-04-28T18:10:42.2900000",
+            "SubTotal": 7.16,
+            "Surcharge": 0.00,
+            "Amount": 7.16,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10608229981",
+            "Date": "2025-04-14T14:35:03.7470000",
+            "SubTotal": 46.66,
+            "Surcharge": 0.00,
+            "Amount": 46.66,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10573125249",
+            "Date": "2025-04-03T13:46:41",
+            "SubTotal": 2462.50,
+            "Surcharge": 0.00,
+            "Amount": 2462.50,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10662072494",
+            "Date": "2025-04-30T21:10:00",
+            "SubTotal": 1325.00,
+            "Surcharge": 0.00,
+            "Amount": 1325.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10653577278",
+            "Date": "2025-04-28T13:16:50.1570000",
+            "SubTotal": 49.52,
+            "Surcharge": 0.00,
+            "Amount": 49.52,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10596296045",
+            "Date": "2025-04-10T15:25:16",
+            "SubTotal": 237.76,
+            "Surcharge": 0.00,
+            "Amount": 237.76,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10646708963",
+            "Date": "2025-04-25T20:51:27.3170000",
+            "SubTotal": 61.73,
+            "Surcharge": 0.00,
+            "Amount": 61.73,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10570434792",
+            "Date": "2025-04-02T18:14:35.8870000",
+            "SubTotal": 184.90,
+            "Surcharge": 0.00,
+            "Amount": 184.90,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10570795153",
+            "Date": "2025-04-03T10:57:32.2770000",
+            "SubTotal": 825.00,
+            "Surcharge": 0.00,
+            "Amount": 825.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10727435390",
+            "Date": "2025-05-19T16:27:37",
+            "SubTotal": 1720.00,
+            "Surcharge": 0.00,
+            "Amount": 1720.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10620284231",
+            "Date": "2025-04-17T16:57:50.2800000",
+            "SubTotal": 3546.01,
+            "Surcharge": 0.00,
+            "Amount": 3546.01,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10587365829",
+            "Date": "2025-04-07T20:47:06.3470000",
+            "SubTotal": 560.79,
+            "Surcharge": 0.00,
+            "Amount": 560.79,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10710530912",
+            "Date": "2025-05-14T18:15:01.4900000",
+            "SubTotal": 1720.00,
+            "Surcharge": 0.00,
+            "Amount": 1720.00,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10702636786",
+            "Date": "2025-05-12T14:42:28.0730000",
+            "SubTotal": 462.50,
+            "Surcharge": 13.88,
+            "Amount": 476.38,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10609781362",
+            "Date": "2025-04-14T21:27:50",
+            "SubTotal": 2765.00,
+            "Surcharge": 0.00,
+            "Amount": 2765.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10631139333",
+            "Date": "2025-04-21T18:27:33",
+            "SubTotal": 4260.00,
+            "Surcharge": 0.00,
+            "Amount": 4260.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10684712584",
+            "Date": "2025-05-06T19:47:58",
+            "SubTotal": 267.01,
+            "Surcharge": 4.01,
+            "Amount": 271.02,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10726719812",
+            "Date": "2025-05-19T13:14:25.3930000",
+            "SubTotal": 23.32,
+            "Surcharge": 0.00,
+            "Amount": 23.32,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10687848952",
+            "Date": "2025-05-07T18:32:05.9870000",
+            "SubTotal": 334.28,
+            "Surcharge": 0.00,
+            "Amount": 334.28,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10645877267",
+            "Date": "2025-04-25T17:13:13.8670000",
+            "SubTotal": 55.90,
+            "Surcharge": 0.00,
+            "Amount": 55.90,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10698389031",
+            "Date": "2025-05-10T18:50:35.8800000",
+            "SubTotal": 6820.56,
+            "Surcharge": 0.00,
+            "Amount": 6820.56,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10636065524",
+            "Date": "2025-04-23T01:21:03",
+            "SubTotal": 2425.00,
+            "Surcharge": 36.38,
+            "Amount": 2461.38,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10711264659",
+            "Date": "2025-05-14T20:35:14.7530000",
+            "SubTotal": 93.21,
+            "Surcharge": 0.00,
+            "Amount": 93.21,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10577465099",
+            "Date": "2025-04-04T16:08:41.6170000",
+            "SubTotal": 100.02,
+            "Surcharge": 0.00,
+            "Amount": 100.02,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10619915923",
+            "Date": "2025-04-17T15:10:43",
+            "SubTotal": 1167.77,
+            "Surcharge": 0.00,
+            "Amount": 1167.77,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10577754536",
+            "Date": "2025-04-04T17:16:37.0630000",
+            "SubTotal": 2894.18,
+            "Surcharge": 0.00,
+            "Amount": 2894.18,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10688130416",
+            "Date": "2025-05-07T19:54:55",
+            "SubTotal": 262.50,
+            "Surcharge": 0.00,
+            "Amount": 262.50,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10577862135",
+            "Date": "2025-04-04T17:42:13",
+            "SubTotal": 398.94,
+            "Surcharge": 0.00,
+            "Amount": 398.94,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10730683434",
+            "Date": "2025-05-20T15:10:16.2730000",
+            "SubTotal": 43.54,
+            "Surcharge": 0.00,
+            "Amount": 43.54,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10672413660",
+            "Date": "2025-05-03T01:51:17.3000000",
+            "SubTotal": 25.00,
+            "Surcharge": 0.00,
+            "Amount": 25.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10592657841",
+            "Date": "2025-04-09T14:44:40.2000000",
+            "SubTotal": 155.63,
+            "Surcharge": 0.00,
+            "Amount": 155.63,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10617348808",
+            "Date": "2025-04-16T18:28:38.3270000",
+            "SubTotal": 645.98,
+            "Surcharge": 0.00,
+            "Amount": 645.98,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10623845152",
+            "Date": "2025-04-18T17:12:07",
+            "SubTotal": 53.09,
+            "Surcharge": 0.00,
+            "Amount": 53.09,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10641539130",
+            "Date": "2025-04-24T15:13:30",
+            "SubTotal": 3372.00,
+            "Surcharge": 0.00,
+            "Amount": 3372.00,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10593816341",
+            "Date": "2025-04-09T20:21:40.8270000",
+            "SubTotal": 49.32,
+            "Surcharge": 0.00,
+            "Amount": 49.32,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10667356938",
+            "Date": "2025-05-01T18:30:51",
+            "SubTotal": 1030.00,
+            "Surcharge": 15.45,
+            "Amount": 1045.45,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10597309084",
+            "Date": "2025-04-10T20:03:38.1200000",
+            "SubTotal": 1571.01,
+            "Surcharge": 0.00,
+            "Amount": 1571.01,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10577963212",
+            "Date": "2025-04-04T18:06:11.1700000",
+            "SubTotal": 22.74,
+            "Surcharge": 0.00,
+            "Amount": 22.74,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10695714312",
+            "Date": "2025-05-09T21:08:03.6500000",
+            "SubTotal": 979.82,
+            "Surcharge": 0.00,
+            "Amount": 979.82,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10718763223",
+            "Date": "2025-05-16T15:14:32",
+            "SubTotal": 22.75,
+            "Surcharge": 0.00,
+            "Amount": 22.75,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10703655788",
+            "Date": "2025-05-12T19:06:55",
+            "SubTotal": 2930.00,
+            "Surcharge": 0.00,
+            "Amount": 2930.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10586581908",
+            "Date": "2025-04-07T17:13:26.2530000",
+            "SubTotal": 8957.43,
+            "Surcharge": 0.00,
+            "Amount": 8957.43,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10631312880",
+            "Date": "2025-04-21T14:14:24.8930000",
+            "SubTotal": 250.00,
+            "Surcharge": 7.50,
+            "Amount": 257.50,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10664569186",
+            "Date": "2025-05-01T10:36:39",
+            "SubTotal": 1155.00,
+            "Surcharge": 17.33,
+            "Amount": 1172.33,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10732138425",
+            "Date": "2025-05-20T22:01:56",
+            "SubTotal": 85.40,
+            "Surcharge": 0.00,
+            "Amount": -85.40,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10593627249",
+            "Date": "2025-04-09T19:22:26.9170000",
+            "SubTotal": 992.14,
+            "Surcharge": 0.00,
+            "Amount": 992.14,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10680364071",
+            "Date": "2025-05-05T15:45:19.6000000",
+            "SubTotal": 1050.00,
+            "Surcharge": 0.00,
+            "Amount": 1050.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10634741133",
+            "Date": "2025-04-22T14:03:58.2670000",
+            "SubTotal": 128.35,
+            "Surcharge": 0.00,
+            "Amount": 128.35,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10726896398",
+            "Date": "2025-05-19T14:09:12",
+            "SubTotal": 23.32,
+            "Surcharge": 0.00,
+            "Amount": 23.32,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10680824696",
+            "Date": "2025-05-05T17:38:49",
+            "SubTotal": 65.00,
+            "Surcharge": 0.00,
+            "Amount": 65.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10655756104",
+            "Date": "2025-04-29T05:15:36",
+            "SubTotal": 2545.00,
+            "Surcharge": 0.00,
+            "Amount": 2545.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10613299678",
+            "Date": "2025-04-15T16:34:53",
+            "SubTotal": 7.63,
+            "Surcharge": 0.00,
+            "Amount": -7.63,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10634833840",
+            "Date": "2025-04-22T14:31:10.6330000",
+            "SubTotal": 50.70,
+            "Surcharge": 0.00,
+            "Amount": 50.70,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10732005556",
+            "Date": "2025-05-20T21:15:24.8030000",
+            "SubTotal": 5112.10,
+            "Surcharge": 0.00,
+            "Amount": 5112.10,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10645352241",
+            "Date": "2025-04-25T15:15:12",
+            "SubTotal": 1215.00,
+            "Surcharge": 0.00,
+            "Amount": 1215.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10720016435",
+            "Date": "2025-05-16T20:36:10",
+            "SubTotal": 304.58,
+            "Surcharge": 0.00,
+            "Amount": 304.58,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10612619913",
+            "Date": "2025-04-15T14:06:12.6900000",
+            "SubTotal": 8.24,
+            "Surcharge": 0.00,
+            "Amount": 8.24,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10645688462",
+            "Date": "2025-04-25T16:30:13",
+            "SubTotal": 21.14,
+            "Surcharge": 0.00,
+            "Amount": 21.14,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10698051908",
+            "Date": "2025-05-10T16:32:49",
+            "SubTotal": 730.00,
+            "Surcharge": 0.00,
+            "Amount": 730.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10607936329",
+            "Date": "2025-04-14T13:07:30",
+            "SubTotal": 994.21,
+            "Surcharge": 0.00,
+            "Amount": 994.21,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10706470019",
+            "Date": "2025-05-13T16:56:03.3600000",
+            "SubTotal": 5650.00,
+            "Surcharge": 0.00,
+            "Amount": 5650.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10635557846",
+            "Date": "2025-04-22T17:52:39.1470000",
+            "SubTotal": 114.36,
+            "Surcharge": 0.00,
+            "Amount": 114.36,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10681350369",
+            "Date": "2025-05-05T19:52:47",
+            "SubTotal": 8549.82,
+            "Surcharge": 0.00,
+            "Amount": 8549.82,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10612617568",
+            "Date": "2025-04-15T14:05:42.2570000",
+            "SubTotal": 3671.06,
+            "Surcharge": 110.13,
+            "Amount": 3781.19,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10734977201",
+            "Date": "2025-05-21T18:55:42",
+            "SubTotal": 720.00,
+            "Surcharge": 0.00,
+            "Amount": 720.00,
+            "Status": 0
+        },
+        {
+            "Company": "UT",
+            "Reference": "10654544316",
+            "Date": "2025-04-28T17:30:48.2800000",
+            "SubTotal": 50.70,
+            "Surcharge": 0.00,
+            "Amount": 50.70,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10614240464",
+            "Date": "2025-04-15T20:16:54.6930000",
+            "SubTotal": 700.00,
+            "Surcharge": 21.00,
+            "Amount": 721.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10705954351",
+            "Date": "2025-05-13T14:22:26",
+            "SubTotal": 314.86,
+            "Surcharge": 4.72,
+            "Amount": 319.58,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10613750578",
+            "Date": "2025-04-15T18:12:18",
+            "SubTotal": 137.84,
+            "Surcharge": 0.00,
+            "Amount": 137.84,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10574324005",
+            "Date": "2025-04-03T18:53:37.5200000",
+            "SubTotal": 262.50,
+            "Surcharge": 7.88,
+            "Amount": 270.38,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10657646623",
+            "Date": "2025-04-29T21:32:01",
+            "SubTotal": 450.00,
+            "Surcharge": 0.00,
+            "Amount": 450.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10641442627",
+            "Date": "2025-04-24T14:45:46.8330000",
+            "SubTotal": 118.35,
+            "Surcharge": 0.00,
+            "Amount": 118.35,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10638949737",
+            "Date": "2025-04-23T18:18:32",
+            "SubTotal": 250.00,
+            "Surcharge": 3.75,
+            "Amount": 253.75,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10574727297",
+            "Date": "2025-04-03T20:52:55.9830000",
+            "SubTotal": 1900.00,
+            "Surcharge": 0.00,
+            "Amount": 1900.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10608054077",
+            "Date": "2025-04-14T13:45:59",
+            "SubTotal": 1882.62,
+            "Surcharge": 0.00,
+            "Amount": 1882.62,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10623396737",
+            "Date": "2025-04-18T15:15:49.3400000",
+            "SubTotal": 3860.00,
+            "Surcharge": 0.00,
+            "Amount": 3860.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10661342071",
+            "Date": "2025-04-30T17:43:45.1630000",
+            "SubTotal": 2136.28,
+            "Surcharge": 0.00,
+            "Amount": 2136.28,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10574782400",
+            "Date": "2025-04-03T21:09:42",
+            "SubTotal": 7.16,
+            "Surcharge": 0.00,
+            "Amount": 7.16,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10731739081",
+            "Date": "2025-05-21T00:53:11",
+            "SubTotal": 500.00,
+            "Surcharge": 7.50,
+            "Amount": 507.50,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10631133665",
+            "Date": "2025-04-21T13:25:53",
+            "SubTotal": 27.43,
+            "Surcharge": 0.00,
+            "Amount": 27.43,
+            "Status": 1
+        },
+        {
+            "Company": "CS",
+            "Reference": "10585573266",
+            "Date": "2025-04-07T12:41:33",
+            "SubTotal": 200.00,
+            "Surcharge": 0.00,
+            "Amount": 200.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10648907659",
+            "Date": "2025-04-26T15:27:02.9130000",
+            "SubTotal": 297.83,
+            "Surcharge": 0.00,
+            "Amount": 297.83,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10600334776",
+            "Date": "2025-04-11T16:33:39.1300000",
+            "SubTotal": 43.62,
+            "Surcharge": 1.31,
+            "Amount": 44.93,
+            "Status": 1
+        },
+        {
+            "Company": "CS",
+            "Reference": "10737436952",
+            "Date": "2025-05-22T14:14:41.4470000",
+            "SubTotal": 137.00,
+            "Surcharge": 0.00,
+            "Amount": 137.00,
+            "Status": 0
+        },
+        {
+            "Company": "CS",
+            "Reference": "10645716448",
+            "Date": "2025-04-25T16:36:43",
+            "SubTotal": 1.00,
+            "Surcharge": 0.00,
+            "Amount": -1.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10658564563",
+            "Date": "2025-04-29T21:17:46.2300000",
+            "SubTotal": 777.86,
+            "Surcharge": 0.00,
+            "Amount": 777.86,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10720012840",
+            "Date": "2025-05-16T20:35:04",
+            "SubTotal": 3627.98,
+            "Surcharge": 0.00,
+            "Amount": 3627.98,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10720264666",
+            "Date": "2025-05-17T07:54:13",
+            "SubTotal": 1082.60,
+            "Surcharge": 16.24,
+            "Amount": 1098.84,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10737240523",
+            "Date": "2025-05-22T13:13:58.2100000",
+            "SubTotal": 38.14,
+            "Surcharge": 0.00,
+            "Amount": 38.14,
+            "Status": 0
+        },
+        {
+            "Company": "UT",
+            "Reference": "10731251664",
+            "Date": "2025-05-20T17:42:53",
+            "SubTotal": 187.14,
+            "Surcharge": 0.00,
+            "Amount": 187.14,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10691620437",
+            "Date": "2025-05-08T20:39:04.2870000",
+            "SubTotal": 978.73,
+            "Surcharge": 0.00,
+            "Amount": 978.73,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10616498254",
+            "Date": "2025-04-16T14:29:09",
+            "SubTotal": 1.00,
+            "Surcharge": 0.00,
+            "Amount": 1.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10706210690",
+            "Date": "2025-05-13T15:39:12",
+            "SubTotal": 2800.00,
+            "Surcharge": 0.00,
+            "Amount": 2800.00,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10672408214",
+            "Date": "2025-05-03T01:49:37",
+            "SubTotal": 1450.00,
+            "Surcharge": 0.00,
+            "Amount": 1450.00,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10608958976",
+            "Date": "2025-04-14T17:39:13.0630000",
+            "SubTotal": 4062.50,
+            "Surcharge": 0.00,
+            "Amount": 4062.50,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10619685809",
+            "Date": "2025-04-17T14:04:30.2000000",
+            "SubTotal": 325.00,
+            "Surcharge": 0.00,
+            "Amount": 325.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10634610865",
+            "Date": "2025-04-22T13:20:21.8600000",
+            "SubTotal": 219.62,
+            "Surcharge": 0.00,
+            "Amount": 219.62,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10590174126",
+            "Date": "2025-04-08T18:27:51",
+            "SubTotal": 54.39,
+            "Surcharge": 0.00,
+            "Amount": 54.39,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10665281201",
+            "Date": "2025-05-01T18:01:40",
+            "SubTotal": 4625.00,
+            "Surcharge": 0.00,
+            "Amount": 4625.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10690017014",
+            "Date": "2025-05-08T12:39:16.6430000",
+            "SubTotal": 52.96,
+            "Surcharge": 0.00,
+            "Amount": 52.96,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10730540182",
+            "Date": "2025-05-20T14:33:58",
+            "SubTotal": 43.54,
+            "Surcharge": 0.00,
+            "Amount": 43.54,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10596295071",
+            "Date": "2025-04-10T15:25:01",
+            "SubTotal": 675.00,
+            "Surcharge": 0.00,
+            "Amount": 675.00,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10710389236",
+            "Date": "2025-05-15T03:53:33.4770000",
+            "SubTotal": 600.00,
+            "Surcharge": 18.00,
+            "Amount": 618.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10665309386",
+            "Date": "2025-05-01T13:05:14.5000000",
+            "SubTotal": 27.43,
+            "Surcharge": 0.00,
+            "Amount": 27.43,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10586116887",
+            "Date": "2025-04-07T20:16:42.2770000",
+            "SubTotal": 2292.50,
+            "Surcharge": 0.00,
+            "Amount": 2292.50,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10587081103",
+            "Date": "2025-04-07T19:24:00.9600000",
+            "SubTotal": 985.00,
+            "Surcharge": 29.55,
+            "Amount": 1014.55,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10576615778",
+            "Date": "2025-04-04T17:29:49",
+            "SubTotal": 3730.00,
+            "Surcharge": 55.95,
+            "Amount": 3785.95,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10690384480",
+            "Date": "2025-05-08T14:33:41.7300000",
+            "SubTotal": 87.67,
+            "Surcharge": 0.00,
+            "Amount": 87.67,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10683656025",
+            "Date": "2025-05-06T15:02:09.4900000",
+            "SubTotal": 801.30,
+            "Surcharge": 24.04,
+            "Amount": 825.34,
+            "Status": 1
+        },
+        {
+            "Company": "CS",
+            "Reference": "10573646558",
+            "Date": "2025-04-03T21:00:53",
+            "SubTotal": 1624.09,
+            "Surcharge": 0.00,
+            "Amount": 1624.09,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10592738773",
+            "Date": "2025-04-09T15:08:17.8900000",
+            "SubTotal": 15.26,
+            "Surcharge": 0.46,
+            "Amount": 15.72,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10718977550",
+            "Date": "2025-05-16T21:05:31",
+            "SubTotal": 1575.00,
+            "Surcharge": 0.00,
+            "Amount": 1575.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10680653056",
+            "Date": "2025-05-05T16:58:57",
+            "SubTotal": 660.00,
+            "Surcharge": 9.90,
+            "Amount": 669.90,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10662071687",
+            "Date": "2025-05-01T02:09:46",
+            "SubTotal": 785.00,
+            "Surcharge": 0.00,
+            "Amount": 785.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10665206450",
+            "Date": "2025-05-01T12:49:38.0930000",
+            "SubTotal": 70.14,
+            "Surcharge": 0.00,
+            "Amount": 70.14,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10631122290",
+            "Date": "2025-04-21T13:22:37",
+            "SubTotal": 22.75,
+            "Surcharge": 0.00,
+            "Amount": 22.75,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10585637753",
+            "Date": "2025-04-07T13:05:00",
+            "SubTotal": 6.85,
+            "Surcharge": 0.00,
+            "Amount": 6.85,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10609819126",
+            "Date": "2025-04-14T21:41:03",
+            "SubTotal": 854.18,
+            "Surcharge": 0.00,
+            "Amount": 854.18,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10709451790",
+            "Date": "2025-05-14T14:12:19.6630000",
+            "SubTotal": 50.38,
+            "Surcharge": 0.00,
+            "Amount": 0.00,
+            "Status": 3
+        },
+        {
+            "Company": "UT",
+            "Reference": "10608747753",
+            "Date": "2025-04-14T16:46:13.6300000",
+            "SubTotal": 111.28,
+            "Surcharge": 0.00,
+            "Amount": 111.28,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10720267742",
+            "Date": "2025-05-16T21:55:20.5030000",
+            "SubTotal": 159.30,
+            "Surcharge": 0.00,
+            "Amount": 159.30,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10657266459",
+            "Date": "2025-04-29T14:39:58.2100000",
+            "SubTotal": 32.88,
+            "Surcharge": 0.00,
+            "Amount": 32.88,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10592455165",
+            "Date": "2025-04-09T13:42:51.1530000",
+            "SubTotal": 7.29,
+            "Surcharge": 0.00,
+            "Amount": 7.29,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10693805906",
+            "Date": "2025-05-09T12:51:19",
+            "SubTotal": 48.47,
+            "Surcharge": 0.00,
+            "Amount": 48.47,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10641667295",
+            "Date": "2025-04-24T15:52:22.2130000",
+            "SubTotal": 962.50,
+            "Surcharge": 28.88,
+            "Amount": 991.38,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10653995815",
+            "Date": "2025-04-28T15:07:34.2130000",
+            "SubTotal": 600.00,
+            "Surcharge": 18.00,
+            "Amount": 618.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10715405661",
+            "Date": "2025-05-15T17:41:25.2500000",
+            "SubTotal": 2400.00,
+            "Surcharge": 0.00,
+            "Amount": 2400.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10632032173",
+            "Date": "2025-04-21T17:03:40.3530000",
+            "SubTotal": 46.66,
+            "Surcharge": 0.00,
+            "Amount": 46.66,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10737306824",
+            "Date": "2025-05-22T13:35:08.0830000",
+            "SubTotal": 144.95,
+            "Surcharge": 0.00,
+            "Amount": 144.95,
+            "Status": 0
+        },
+        {
+            "Company": "FG",
+            "Reference": "10577288913",
+            "Date": "2025-04-04T15:26:50",
+            "SubTotal": 500.00,
+            "Surcharge": 0.00,
+            "Amount": 500.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10571219649",
+            "Date": "2025-04-03T03:10:52",
+            "SubTotal": 2010.00,
+            "Surcharge": 0.00,
+            "Amount": 2010.00,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10727416251",
+            "Date": "2025-05-19T21:22:37",
+            "SubTotal": 1766.84,
+            "Surcharge": 26.50,
+            "Amount": 1793.34,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10657687770",
+            "Date": "2025-04-29T16:43:44.7830000",
+            "SubTotal": 25.00,
+            "Surcharge": 0.00,
+            "Amount": 25.00,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10668189081",
+            "Date": "2025-05-01T21:29:04.6100000",
+            "SubTotal": 325.00,
+            "Surcharge": 9.75,
+            "Amount": 334.75,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10711341990",
+            "Date": "2025-05-14T21:00:31.4170000",
+            "SubTotal": 550.00,
+            "Surcharge": 16.50,
+            "Amount": 566.50,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10726729023",
+            "Date": "2025-05-19T13:17:46.6100000",
+            "SubTotal": 31.50,
+            "Surcharge": 0.00,
+            "Amount": 31.50,
+            "Status": 1
+        },
+        {
+            "Company": "FG",
+            "Reference": "10703679936",
+            "Date": "2025-05-13T00:12:56.8270000",
+            "SubTotal": 1557.00,
+            "Surcharge": 46.71,
+            "Amount": 1603.71,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10670955615",
+            "Date": "2025-05-02T15:08:17.1730000",
+            "SubTotal": 289.85,
+            "Surcharge": 0.00,
+            "Amount": 289.85,
+            "Status": 1
+        },
+        {
+            "Company": "UT",
+            "Reference": "10623473091",
+            "Date": "2025-04-18T15:35:33.6770000",
+            "SubTotal": 572.67,
+            "Surcharge": 0.00,
+            "Amount": 572.67,
+            "Status": 1
+        }
+    ]
+}
